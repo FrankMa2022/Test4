@@ -1,5 +1,5 @@
 {
-  "name": "空白流程8",
+  "name": "空白流程11",
   "description": "空白流程",
   "main": "Main.xaml",
   "dependencies": {
@@ -46,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "3d3630c5-8d1e-4d15-ab71-06ee03ed8806",
+      "uniqueId": "4e6a0dbe-0cc7-42b3-b786-af8388831091",
       "input": [],
       "output": []
     }
